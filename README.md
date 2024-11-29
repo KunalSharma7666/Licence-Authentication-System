@@ -90,3 +90,8 @@ The system is divided into the following components:
 Enter Username: police
 Enter Password: password123
 Enter the licence number you want to verify: XYZ456
+
+**Output**:
+Name: Kunal Sharma
+Date of Birth: 20/02/2002
+
