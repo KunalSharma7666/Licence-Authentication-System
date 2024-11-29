@@ -84,7 +84,7 @@ The system is divided into the following components:
 
 ## Sample Inputs/Outputs
 
-### Test Case 1:
+### Test Case:
 **Input**:
 ```plaintext
 Enter Username: police
