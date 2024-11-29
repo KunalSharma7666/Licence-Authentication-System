@@ -55,7 +55,7 @@ The system is divided into the following components:
 
 ## Tech Stack
 
-- **Programming Language**: Python
+- **Programming Language**: `Python`
 - **Cryptography Libraries**: `pycryptodome`, `fernet`
 - **Networking**: `socket`
 - **Serialization**: `pickle`
